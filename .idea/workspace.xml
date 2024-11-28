@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b22d8866-0793-4e23-9409-fb92a176d16e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bmSTugHxKFc9pINRl5nyLVGp00" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.IniciarUnidadeDePersistence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConsultandoRegistrosTest.buscarPorIdentificador.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConsultandoRegistrosTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrudTest.delete.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrudTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrudTest.insert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MapeandoEnumeracoesTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MapeandoEnumeracoesTest.testarEmbeddlabe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MapeandoEnumeracoesTest.testarEnum.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OperacoesComTransacaoTest.atualizarObjetoGerenciado.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OperacoesComTransacaoTest.atualizarPrimeiroProduto.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OperacoesComTransacaoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OperacoesComTransacaoTest.removerPrimeiroProduto.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestarManyToOne.itemPedidoManyToOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestarManyToOne.pedidoClienteManyToOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.testarStrategyAuto.testarStrategy.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rwans/IdeaProjects/algaworks-ecommerce&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/rwans/IdeaProjects/algaworks-ecommerce/src/main/java/com/algaworks/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.algaworks.model" />
+      <recent name="com.algaworks.enums" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.algaworks.model" />
+      <recent name="com.algaworks.enums" />
+      <recent name="com.algaworks.ecommerce.iniciandocomjpa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.testarStrategyAuto.testarStrategy">
+    <configuration name="MapeandoEnumeracoesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algaworks-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algaworks.ecommerce.mapeamentobasico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algaworks.ecommerce.mapeamentobasico" />
+      <option name="MAIN_CLASS_NAME" value="com.algaworks.ecommerce.mapeamentobasico.MapeandoEnumeracoesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapeandoEnumeracoesTest.testarEmbeddlabe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algaworks-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algaworks.ecommerce.mapeamentobasico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algaworks.ecommerce.mapeamentobasico" />
+      <option name="MAIN_CLASS_NAME" value="com.algaworks.ecommerce.mapeamentobasico.MapeandoEnumeracoesTest" />
+      <option name="METHOD_NAME" value="testarEmbeddlabe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestarManyToOne.itemPedidoManyToOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algaworks-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algaworks.ecommerce.mapeamentobasico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algaworks.ecommerce.mapeamentobasico" />
+      <option name="MAIN_CLASS_NAME" value="com.algaworks.ecommerce.mapeamentobasico.TestarManyToOne" />
+      <option name="METHOD_NAME" value="itemPedidoManyToOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestarManyToOne.pedidoClienteManyToOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algaworks-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algaworks.ecommerce.mapeamentobasico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algaworks.ecommerce.mapeamentobasico" />
+      <option name="MAIN_CLASS_NAME" value="com.algaworks.ecommerce.mapeamentobasico.TestarManyToOne" />
+      <option name="METHOD_NAME" value="pedidoClienteManyToOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testarStrategyAuto.testarStrategy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algaworks-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algaworks.ecommerce.mapeamentobasico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algaworks.ecommerce.mapeamentobasico" />
+      <option name="MAIN_CLASS_NAME" value="com.algaworks.ecommerce.mapeamentobasico.testarStrategyAuto" />
+      <option name="METHOD_NAME" value="testarStrategy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testarStrategyAuto.testarStrategy" />
+        <item itemvalue="JUnit.TestarManyToOne.itemPedidoManyToOne" />
+        <item itemvalue="JUnit.TestarManyToOne.pedidoClienteManyToOne" />
+        <item itemvalue="JUnit.MapeandoEnumeracoesTest.testarEmbeddlabe" />
+        <item itemvalue="JUnit.MapeandoEnumeracoesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b22d8866-0793-4e23-9409-fb92a176d16e" name="Changes" comment="" />
+      <created>1706818776338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706818776338</updated>
+      <workItem from="1706818777541" duration="10994000" />
+      <workItem from="1707069427760" duration="2184000" />
+      <workItem from="1707473853470" duration="4014000" />
+      <workItem from="1707493732641" duration="5766000" />
+      <workItem from="1707917780196" duration="3908000" />
+      <workItem from="1708195508293" duration="1686000" />
+      <workItem from="1710958413157" duration="4000" />
+      <workItem from="1710958480994" duration="3770000" />
+      <workItem from="1713914376003" duration="6000" />
+      <workItem from="1727486220771" duration="8000" />
+      <workItem from="1727486239477" duration="46000" />
+      <workItem from="1727486306228" duration="28000" />
+      <workItem from="1727486778462" duration="100000" />
+      <workItem from="1727486885543" duration="872000" />
+      <workItem from="1732387784312" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/algaworks/ecommerce/mapeamentobasico/TestarManyToOne.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
